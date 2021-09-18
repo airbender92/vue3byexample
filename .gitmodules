@@ -1,0 +1,3 @@
+[submodule "my-vue3-project"]
+	path = my-vue3-project
+	url = ../my-vue3-project
